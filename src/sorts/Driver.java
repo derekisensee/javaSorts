@@ -37,6 +37,8 @@ public class Driver {
             //out.write("run " + j ": " + s.selSort(array) + "ms\tarray size: " + size + "\n");
         }
 
+
+
         out.flush();
         out.close();
     }
